@@ -1,0 +1,10 @@
+c:\Users\Fabi\documents\visual studio 2015\Projects\TestWave\test\bin\Debug\test.exe.config
+c:\Users\Fabi\documents\visual studio 2015\Projects\TestWave\test\bin\Debug\test.exe
+c:\Users\Fabi\documents\visual studio 2015\Projects\TestWave\test\bin\Debug\test.pdb
+c:\Users\Fabi\documents\visual studio 2015\Projects\TestWave\test\bin\Debug\TestWave.dll
+c:\Users\Fabi\documents\visual studio 2015\Projects\TestWave\test\bin\Debug\NAudio.dll
+c:\Users\Fabi\documents\visual studio 2015\Projects\TestWave\test\bin\Debug\TestWave.pdb
+c:\Users\Fabi\documents\visual studio 2015\Projects\TestWave\test\bin\Debug\NAudio.xml
+c:\Users\Fabi\documents\visual studio 2015\Projects\TestWave\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+c:\Users\Fabi\documents\visual studio 2015\Projects\TestWave\test\obj\Debug\test.exe
+c:\Users\Fabi\documents\visual studio 2015\Projects\TestWave\test\obj\Debug\test.pdb
